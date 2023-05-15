@@ -3,8 +3,8 @@
 This repository consists of Baseline and Final project implementation. 
 
 ## Milestone 3
-The final project code implementation is in the 'Milestone3' directory.
-The files in Milestone3 directory are as listed below:
+The final project code implementation is in the 'Milestone-3' directory.
+The files in Milestone-3 directory are as listed below:
 1. BEGIN_BERT.ipynb (Implementation of the Hallucination Critic by classifying BEGIN classes)
 2. VRM_Bert.ipynb (Implementation of the VRM taxonomy classification)
 3. Text_generation.ipynb (Implementation of the Hallucination-free text generation)
@@ -24,8 +24,8 @@ Specific instructions for Text_generation.ipynb:
 4. The response will then be generated using the model trained which will be printed as a model output response.
 
 ## Milestone 2
-The Baseline implementation of the prject is in the 'Milestone2' directory. 
-The files in Milestone2 directory are as listed below:
+The Baseline implementation of the prject is in the 'Milestone-2' directory. 
+The files in Milestone-2 directory are as listed below:
 1. GPT2_implementation.ipynb
 2. Hallucination_critic_BERT_SVM_NB.ipynb 
 3. Text_generation_GPT2.ipynb 
